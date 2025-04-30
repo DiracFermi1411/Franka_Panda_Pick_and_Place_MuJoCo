@@ -1,1 +1,1 @@
-# Panda_Pick_-_Place
+# Panda_Pick_and_Place
